@@ -1,16 +1,94 @@
-# React + Vite
+ # PolyLingo 🌍
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+### Bringing People Closer Through Language
 
-Currently, two official plugins are available:
+PolyLingo is a web-based language translation application developed using **React** and **Vite**. It provides an intuitive and responsive platform for translating text between supported languages, making cross-language communication more accessible and convenient.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Developed as **Project 01 of my CodeAlpha AI Internship**, PolyLingo demonstrates the practical application of front-end development, API integration, and modern JavaScript concepts.
 
-## React Compiler
+ 
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the Oxlint configuration
+- **Multilingual Translation** — Translate text between supported language pairs.
+- **Language Selection** — Choose source and target languages.
+- **Swap Languages** — Instantly switch the selected languages.
+- **Copy Translation** — Copy translated text directly to the clipboard.
+- **Text-to-Speech** — Listen to text using browser speech synthesis.
+- **Clear Input** — Clear text and start a new translation.
+- **Responsive Interface** — Adaptable layout for desktop, tablet, and mobile screens.
+- **Interactive Feedback** — Loading indicators and error messages for a smoother user experience.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| React | Component-based user interface |
+| Vite | Development server and build tool |
+| JavaScript (ES6+) | Application functionality and logic |
+| CSS3 | Styling and responsive layouts |
+| Lucide React | Interface icons |
+| MyMemory Translation API | External translation service |
+| Git & GitHub | Version control and source management |
+
+ 
+
+## 🌐 Translation Service
+
+PolyLingo integrates the **MyMemory Translation API** to process translation requests and retrieve translated text.
+
+**Important Notes:**
+- Translation availability depends on the selected language pair.
+- Translation accuracy may vary depending on the language and input.
+- The free service is subject to usage limits and its own terms of service.
+- Translation functionality depends on the availability of the external API.
+
+## 🎓 CodeAlpha AI Internship
+
+**Internship Project 01 — Language Translation Tool**
+
+PolyLingo is my **first project completed as part of the CodeAlpha AI Internship**, under Task 1: Language Translation Tool.
+
+The assignment provided an opportunity to develop a functional web application and apply programming concepts through practical implementation.
+
+**Key Learning Outcomes:**
+- Building reusable and modular React components.
+- Integrating external APIs using the Fetch API.
+- Handling asynchronous operations with `async/await`.
+- Managing user input, application interactions, and error handling.
+- Developing responsive interfaces using CSS.
+- Using Git and GitHub for version control and project management.
+
+| Internship Detail | Information |
+|---|---|
+| Organization | CodeAlpha |
+| Program | AI Internship |
+| Project | PolyLingo |
+| Project Number | 01 |
+| Assigned Task | Task 1 — Language Translation Tool |
+| Status | Completed |
+
+## 🔮 Future Improvements
+
+- Enhance translation accuracy and language coverage.
+- Introduce translation history.
+- Add favorite languages and saved translations.
+- Expand accessibility features.
+- Explore additional translation service integrations.
+
+## 👩‍💻 Developer
+
+**Zaynah Khan**
+
+Aspiring Front-End Developer | React Learner | AI Enthusiast
+ 
+---
+
+<p align="center">
+  <strong>PolyLingo — Every word brings us closer. 🌍</strong>
+</p>
+
+<p align="center">
+  Developed with a focus on learning, practical implementation, and continuous improvement.
+</p>
