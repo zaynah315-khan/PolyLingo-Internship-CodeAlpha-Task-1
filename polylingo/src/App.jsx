@@ -22,7 +22,7 @@ function App() {
           <div className="footer-main">
             <h2 className="footer-brand">PolyLingo.</h2>
             <p className="footer-description">
-              Bringing people closer through language.
+              Connecting people through language.
               Discover new ways to communicate with the world.
             </p>
           </div>
@@ -39,7 +39,7 @@ function App() {
           <div className="footer-column">
             <h4>Our purpose</h4>
             <p className="footer-description">
-              Making communication easier, one word at a time.
+              Connecting people through languagegit status, one word at a time.
             </p>
           </div>
         </div>
